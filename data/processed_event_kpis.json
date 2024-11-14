@@ -1,0 +1,264 @@
+{
+    "events": [
+        {
+            "name": "Boston Bruins vs. St. Louis Blues",
+            "url": "https://www.ticketmaster.com/boston-bruins-vs-st-louis-blues-boston-massachusetts-11-16-2024/event/010060D9D55F7532",
+            "target_audience": "Fans of Hockey",
+            "objectives": "Brand Awareness for NHL Fans",
+            "industry_category": "Sports",
+            "geographic_focus": {
+                "city": "Boston",
+                "state": "Massachusetts"
+            },
+            "budget_constraints": "Budget Range: $135.0 - $1565.5",
+            "kpi": 5441.6
+        },
+        {
+            "name": "Boston Bruins vs. Pittsburgh Penguins",
+            "url": "https://www.ticketmaster.com/boston-bruins-vs-pittsburgh-penguins-boston-massachusetts-11-29-2024/event/010060D9D5727599",
+            "target_audience": "Fans of Hockey",
+            "objectives": "Brand Awareness for NHL Fans",
+            "industry_category": "Sports",
+            "geographic_focus": {
+                "city": "Boston",
+                "state": "Massachusetts"
+            },
+            "budget_constraints": "Budget Range: $205.0 - $1565.5",
+            "kpi": 5665.6
+        },
+        {
+            "name": "Boston Bruins vs. Montreal Canadiens",
+            "url": "https://www.ticketmaster.com/boston-bruins-vs-montreal-canadiens-boston-massachusetts-12-01-2024/event/010060D9D57775B8",
+            "target_audience": "Fans of Hockey",
+            "objectives": "Brand Awareness for NHL Fans",
+            "industry_category": "Sports",
+            "geographic_focus": {
+                "city": "Boston",
+                "state": "Massachusetts"
+            },
+            "budget_constraints": "Budget Range: $220.0 - $1565.5",
+            "kpi": 5713.6
+        },
+        {
+            "name": "Boston Bruins vs. Vancouver Canucks",
+            "url": "https://www.ticketmaster.com/boston-bruins-vs-vancouver-canucks-boston-massachusetts-11-26-2024/event/010060D9D56D758F",
+            "target_audience": "Fans of Hockey",
+            "objectives": "Brand Awareness for NHL Fans",
+            "industry_category": "Sports",
+            "geographic_focus": {
+                "city": "Boston",
+                "state": "Massachusetts"
+            },
+            "budget_constraints": "Budget Range: $90.0 - $1565.5",
+            "kpi": 5297.6
+        },
+        {
+            "name": "Boston Bruins vs. Utah Hockey Club",
+            "url": "https://www.ticketmaster.com/boston-bruins-vs-utah-hockey-club-boston-massachusetts-11-21-2024/event/010060D9D5697545",
+            "target_audience": "Fans of Hockey",
+            "objectives": "Brand Awareness for NHL Fans",
+            "industry_category": "Sports",
+            "geographic_focus": {
+                "city": "Boston",
+                "state": "Massachusetts"
+            },
+            "budget_constraints": "Budget Range: $75.0 - $1565.5",
+            "kpi": 5249.6
+        },
+        {
+            "name": "Boston Bruins vs. Philadelphia Flyers",
+            "url": "https://www.ticketmaster.com/boston-bruins-vs-philadelphia-flyers-boston-massachusetts-12-07-2024/event/010060D9D5807611",
+            "target_audience": "Fans of Hockey",
+            "objectives": "Brand Awareness for NHL Fans",
+            "industry_category": "Sports",
+            "geographic_focus": {
+                "city": "Boston",
+                "state": "Massachusetts"
+            },
+            "budget_constraints": "Budget Range: $165.0 - $1565.5",
+            "kpi": 5537.6
+        },
+        {
+            "name": "Disney On Ice presents Into the Magic",
+            "url": "https://www.ticketmaster.com/disney-on-ice-presents-into-the-portland-maine-12-21-2024/event/010060DA90543CCE",
+            "target_audience": "Fans of Ice Shows",
+            "objectives": "General Entertainment",
+            "industry_category": "Miscellaneous",
+            "geographic_focus": {
+                "city": "Portland",
+                "state": "Maine"
+            },
+            "budget_constraints": "Budget Range: $15.0 - $130.0",
+            "kpi": 464.0
+        },
+        {
+            "name": "Boston Bruins vs. Detroit Red Wings",
+            "url": "https://www.ticketmaster.com/boston-bruins-vs-detroit-red-wings-boston-massachusetts-12-03-2024/event/010060D9D57C75DD",
+            "target_audience": "Fans of Hockey",
+            "objectives": "Brand Awareness for NHL Fans",
+            "industry_category": "Sports",
+            "geographic_focus": {
+                "city": "Boston",
+                "state": "Massachusetts"
+            },
+            "budget_constraints": "Budget Range: $95.0 - $1565.5",
+            "kpi": 5313.6
+        },
+        {
+            "name": "Disney On Ice presents Into the Magic",
+            "url": "https://www.ticketmaster.com/disney-on-ice-presents-into-the-portland-maine-12-21-2024/event/010060DA8BE7345B",
+            "target_audience": "Fans of Ice Shows",
+            "objectives": "General Entertainment",
+            "industry_category": "Miscellaneous",
+            "geographic_focus": {
+                "city": "Portland",
+                "state": "Maine"
+            },
+            "budget_constraints": "Budget Range: $15.0 - $130.0",
+            "kpi": 464.0
+        },
+        {
+            "name": "Boston Bruins vs. Columbus Blue Jackets",
+            "url": "https://www.ticketmaster.com/boston-bruins-vs-columbus-blue-jackets-boston-massachusetts-12-28-2024/event/010060D9D58F7631",
+            "target_audience": "Fans of Hockey",
+            "objectives": "Brand Awareness for NHL Fans",
+            "industry_category": "Sports",
+            "geographic_focus": {
+                "city": "Boston",
+                "state": "Massachusetts"
+            },
+            "budget_constraints": "Budget Range: $190.0 - $1565.5",
+            "kpi": 5617.6
+        },
+        {
+            "name": "Boston Bruins vs. Columbus Blue Jackets",
+            "url": "https://www.ticketmaster.com/boston-bruins-vs-columbus-blue-jackets-boston-massachusetts-11-18-2024/event/010060D9D5647538",
+            "target_audience": "Fans of Hockey",
+            "objectives": "Brand Awareness for NHL Fans",
+            "industry_category": "Sports",
+            "geographic_focus": {
+                "city": "Boston",
+                "state": "Massachusetts"
+            },
+            "budget_constraints": "Budget Range: $75.0 - $1565.5",
+            "kpi": 5249.6
+        },
+        {
+            "name": "Boston Bruins vs. Buffalo Sabres",
+            "url": "https://www.ticketmaster.com/boston-bruins-vs-buffalo-sabres-boston-massachusetts-12-21-2024/event/010060D9D5857613",
+            "target_audience": "Fans of Hockey",
+            "objectives": "Brand Awareness for NHL Fans",
+            "industry_category": "Sports",
+            "geographic_focus": {
+                "city": "Boston",
+                "state": "Massachusetts"
+            },
+            "budget_constraints": "Budget Range: $145.0 - $1565.5",
+            "kpi": 5473.6
+        },
+        {
+            "name": "Disney On Ice presents Into the Magic",
+            "url": "https://www.ticketmaster.com/disney-on-ice-presents-into-the-hartford-connecticut-01-04-2025/event/1D0060FDCD613C43",
+            "target_audience": "Fans of Ice Shows",
+            "objectives": "General Entertainment",
+            "industry_category": "Miscellaneous",
+            "geographic_focus": {
+                "city": "Hartford",
+                "state": "Connecticut"
+            },
+            "budget_constraints": "Budget Range: $20.0 - $115.0",
+            "kpi": 432.0
+        },
+        {
+            "name": "Disney On Ice presents Into the Magic",
+            "url": "https://www.ticketmaster.com/disney-on-ice-presents-into-the-hartford-connecticut-01-04-2025/event/1D0060FDCD5A3C38",
+            "target_audience": "Fans of Ice Shows",
+            "objectives": "General Entertainment",
+            "industry_category": "Miscellaneous",
+            "geographic_focus": {
+                "city": "Hartford",
+                "state": "Connecticut"
+            },
+            "budget_constraints": "Budget Range: $20.0 - $115.0",
+            "kpi": 432.0
+        },
+        {
+            "name": "Disney On Ice presents Into the Magic",
+            "url": "https://www.ticketmaster.com/disney-on-ice-presents-into-the-portland-maine-12-22-2024/event/010060DA8C6334F9",
+            "target_audience": "Fans of Ice Shows",
+            "objectives": "General Entertainment",
+            "industry_category": "Miscellaneous",
+            "geographic_focus": {
+                "city": "Portland",
+                "state": "Maine"
+            },
+            "budget_constraints": "Budget Range: $15.0 - $130.0",
+            "kpi": 464.0
+        },
+        {
+            "name": "Boston Bruins vs. Edmonton Oilers",
+            "url": "https://www.ticketmaster.com/boston-bruins-vs-edmonton-oilers-boston-massachusetts-01-07-2025/event/010060D9D4B87315",
+            "target_audience": "Fans of Hockey",
+            "objectives": "Brand Awareness for NHL Fans",
+            "industry_category": "Sports",
+            "geographic_focus": {
+                "city": "Boston",
+                "state": "Massachusetts"
+            },
+            "budget_constraints": "Budget Range: $125.0 - $1565.5",
+            "kpi": 5409.6
+        },
+        {
+            "name": "Disney On Ice presents Into the Magic",
+            "url": "https://www.ticketmaster.com/disney-on-ice-presents-into-the-portland-maine-12-22-2024/event/010060DA913D3E15",
+            "target_audience": "Fans of Ice Shows",
+            "objectives": "General Entertainment",
+            "industry_category": "Miscellaneous",
+            "geographic_focus": {
+                "city": "Portland",
+                "state": "Maine"
+            },
+            "budget_constraints": "Budget Range: $15.0 - $130.0",
+            "kpi": 464.0
+        },
+        {
+            "name": "Boston Bruins vs. Colorado Avalanche",
+            "url": "https://www.ticketmaster.com/boston-bruins-vs-colorado-avalanche-boston-massachusetts-01-25-2025/event/010060D9D4CC7326",
+            "target_audience": "Fans of Hockey",
+            "objectives": "Brand Awareness for NHL Fans",
+            "industry_category": "Sports",
+            "geographic_focus": {
+                "city": "Boston",
+                "state": "Massachusetts"
+            },
+            "budget_constraints": "Budget Range: $191.0 - $1565.5",
+            "kpi": 5620.8
+        },
+        {
+            "name": "Disney On Ice presents Into the Magic",
+            "url": "https://www.ticketmaster.com/disney-on-ice-presents-into-the-portland-maine-12-20-2024/event/010060D98C1019FA",
+            "target_audience": "Fans of Ice Shows",
+            "objectives": "General Entertainment",
+            "industry_category": "Miscellaneous",
+            "geographic_focus": {
+                "city": "Portland",
+                "state": "Maine"
+            },
+            "budget_constraints": "Budget Range: $15.0 - $90.0",
+            "kpi": 336.0
+        },
+        {
+            "name": "Disney On Ice presents Into the Magic",
+            "url": "https://www.ticketmaster.com/disney-on-ice-presents-into-the-portland-maine-12-19-2024/event/010060D98FEB1C98",
+            "target_audience": "Fans of Ice Shows",
+            "objectives": "General Entertainment",
+            "industry_category": "Miscellaneous",
+            "geographic_focus": {
+                "city": "Portland",
+                "state": "Maine"
+            },
+            "budget_constraints": "Budget Range: $15.0 - $90.0",
+            "kpi": 336.0
+        }
+    ]
+}
