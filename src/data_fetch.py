@@ -1,37 +1,36 @@
 import requests
 import json
+import configparser
+import os
 
-# Set your Eventbrite Organization ID and Personal OAuth Token
-organization_id = 'YOUR_ORG_ID'  # Replace with your Eventbrite organization ID
-personal_oauth_token = 'YOUR_OAUTH_TOKEN'  # Replace with your Eventbrite personal OAuth token
+config = configparser.ConfigParser()
+config.read('config.ini')
 
-# Eventbrite API URL
-url = f'https://www.eventbriteapi.com/v3/organizations/{organization_id}/events/?status=ended'
+api_key = config.get('ticketmaster', 'api')
 
-# Set headers for the request
-headers = {
-    'Authorization': f'Bearer {personal_oauth_token}'
+# Define the API endpoint for searching events
+url = 'https://app.ticketmaster.com/discovery/v2/events.json'
+
+# Define the parameters for the API request
+params = {
+    'countryCode': 'US',  # Correct city name (Greater Boston Area assumed)
+    'apikey': api_key  # Your API key
 }
 
-# Function to fetch data from Eventbrite API
-def fetch_eventbrite_data():
-    # Send GET request to Eventbrite API
-    response = requests.get(url, headers=headers)
+# Send the GET request to the Ticketmaster API
+response = requests.get(url, params=params)
 
-    # Check if request was successful
-    if response.status_code == 200:
-        data = response.json()  # Parse the response JSON
-        return data
-    else:
-        print(f"Error fetching data from Eventbrite API: {response.status_code}")
-        return None
-
-# Fetch event data
-event_data = fetch_eventbrite_data()
-
-# If data was fetched successfully, save to a JSON file
-if event_data:
-    with open('../data/data.json', 'w') as json_file:
-        json.dump(event_data, json_file, indent=4)
-
-    print("Event data has been saved to '../data/data.json'")
+# Check if the request was successful (status code 200)
+if response.status_code == 200:
+    # Create the "data" folder if it doesn't exist
+    if not os.path.exists('data'):
+        os.makedirs('data')
+    
+    # Save the response data to a file called "data.json"
+    with open('../data/data.json', 'w') as f:
+        json.dump(response.json(), f, indent=4)
+    
+    print("Data has been saved to 'data/data.json'")
+else:
+    print(f"Error: Unable to fetch data. Status code {response.status_code}")
+    print(response.text)  # Print the response text for more details
