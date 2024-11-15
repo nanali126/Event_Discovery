@@ -1,0 +1,12 @@
+Event Name,Event URL,Event Score
+Phoenix Suns vs. Golden State Warriors,https://www.ticketmaster.com/phoenix-suns-vs-golden-state-warriors-phoenix-arizona-04-08-2025/event/19006108E31736B4,35916420.59
+Phoenix Suns vs. Golden State Warriors,https://www.ticketmaster.com/phoenix-suns-vs-golden-state-warriors-phoenix-arizona-11-30-2024/event/19006108E35636EB,31543471.37
+Brooklyn Nets v. Phoenix Suns,https://www.ticketmaster.com/brooklyn-nets-v-phoenix-suns-brooklyn-new-york-01-22-2025/event/3000610DA79E20C0,24844485.65
+Porland Trail Blazers v Phoenix Suns - Black History Night,https://www.ticketmaster.com/porland-trail-blazers-v-phoenix-suns-portland-oregon-02-01-2025/event/0F0060EAC953499A,19200292.55
+Phoenix Suns vs. San Antonio (NBA Cup Group Play),https://www.ticketmaster.com/phoenix-suns-vs-san-antonio-nba-phoenix-arizona-12-03-2024/event/19006108E35A36EF,15250000.07
+Phoenix Suns vs. Memphis Grizzlies,https://www.ticketmaster.com/phoenix-suns-vs-memphis-grizzlies-phoenix-arizona-12-31-2024/event/19006108E37B372D,15227895.17
+Phoenix Suns vs. Minnesota Timberwolves,https://www.ticketmaster.com/phoenix-suns-vs-minnesota-timberwolves-phoenix-arizona-01-29-2025/event/19006108E2D63654,15196948.31
+Phoenix Suns vs. Orlando Magic,https://www.ticketmaster.com/phoenix-suns-vs-orlando-magic-phoenix-arizona-11-18-2024/event/19006108E34536DF,15135054.54
+Phoenix Suns vs. Utah Jazz,https://www.ticketmaster.com/phoenix-suns-vs-utah-jazz-phoenix-arizona-01-11-2025/event/19006108E2C53636,14894217.35
+Phoenix Suns vs. Indiana Pacers,https://www.ticketmaster.com/phoenix-suns-vs-indiana-pacers-phoenix-arizona-12-19-2024/event/19006108E36736FC,14848848.90
+,,Event Score = (0.6 * KPI) + (0.3 * Price Difference) + (0.1 * Relevance Score)

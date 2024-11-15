@@ -1,264 +1,264 @@
 {
     "events": [
         {
-            "name": "Boston Bruins vs. St. Louis Blues",
-            "url": "https://www.ticketmaster.com/boston-bruins-vs-st-louis-blues-boston-massachusetts-11-16-2024/event/010060D9D55F7532",
-            "target_audience": "Fans of Hockey",
-            "objectives": "Brand Awareness for NHL Fans",
-            "industry_category": "Sports",
-            "geographic_focus": {
-                "city": "Boston",
-                "state": "Massachusetts"
-            },
-            "budget_constraints": "Budget Range: $135.0 - $1565.5",
-            "kpi": 5441.6
-        },
-        {
-            "name": "Boston Bruins vs. Pittsburgh Penguins",
-            "url": "https://www.ticketmaster.com/boston-bruins-vs-pittsburgh-penguins-boston-massachusetts-11-29-2024/event/010060D9D5727599",
-            "target_audience": "Fans of Hockey",
-            "objectives": "Brand Awareness for NHL Fans",
-            "industry_category": "Sports",
-            "geographic_focus": {
-                "city": "Boston",
-                "state": "Massachusetts"
-            },
-            "budget_constraints": "Budget Range: $205.0 - $1565.5",
-            "kpi": 5665.6
-        },
-        {
-            "name": "Boston Bruins vs. Montreal Canadiens",
-            "url": "https://www.ticketmaster.com/boston-bruins-vs-montreal-canadiens-boston-massachusetts-12-01-2024/event/010060D9D57775B8",
-            "target_audience": "Fans of Hockey",
-            "objectives": "Brand Awareness for NHL Fans",
-            "industry_category": "Sports",
-            "geographic_focus": {
-                "city": "Boston",
-                "state": "Massachusetts"
-            },
-            "budget_constraints": "Budget Range: $220.0 - $1565.5",
-            "kpi": 5713.6
-        },
-        {
-            "name": "Boston Bruins vs. Vancouver Canucks",
-            "url": "https://www.ticketmaster.com/boston-bruins-vs-vancouver-canucks-boston-massachusetts-11-26-2024/event/010060D9D56D758F",
-            "target_audience": "Fans of Hockey",
-            "objectives": "Brand Awareness for NHL Fans",
-            "industry_category": "Sports",
-            "geographic_focus": {
-                "city": "Boston",
-                "state": "Massachusetts"
-            },
-            "budget_constraints": "Budget Range: $90.0 - $1565.5",
-            "kpi": 5297.6
-        },
-        {
-            "name": "Boston Bruins vs. Utah Hockey Club",
-            "url": "https://www.ticketmaster.com/boston-bruins-vs-utah-hockey-club-boston-massachusetts-11-21-2024/event/010060D9D5697545",
-            "target_audience": "Fans of Hockey",
-            "objectives": "Brand Awareness for NHL Fans",
-            "industry_category": "Sports",
-            "geographic_focus": {
-                "city": "Boston",
-                "state": "Massachusetts"
-            },
-            "budget_constraints": "Budget Range: $75.0 - $1565.5",
-            "kpi": 5249.6
-        },
-        {
-            "name": "Boston Bruins vs. Philadelphia Flyers",
-            "url": "https://www.ticketmaster.com/boston-bruins-vs-philadelphia-flyers-boston-massachusetts-12-07-2024/event/010060D9D5807611",
-            "target_audience": "Fans of Hockey",
-            "objectives": "Brand Awareness for NHL Fans",
-            "industry_category": "Sports",
-            "geographic_focus": {
-                "city": "Boston",
-                "state": "Massachusetts"
-            },
-            "budget_constraints": "Budget Range: $165.0 - $1565.5",
-            "kpi": 5537.6
-        },
-        {
-            "name": "Disney On Ice presents Into the Magic",
-            "url": "https://www.ticketmaster.com/disney-on-ice-presents-into-the-portland-maine-12-21-2024/event/010060DA90543CCE",
-            "target_audience": "Fans of Ice Shows",
+            "name": "NBA Cup: Oklahoma City Thunder v Phoenix Suns",
+            "url": "https://www.ticketmaster.com/nba-cup-oklahoma-city-thunder-v-oklahoma-city-oklahoma-11-15-2024/event/0C00610EC44435B8",
+            "target_audience": "Fans of Basketball",
             "objectives": "General Entertainment",
-            "industry_category": "Miscellaneous",
+            "industry_category": "Sports",
+            "geographic_focus": {
+                "city": "Oklahoma City",
+                "state": "Oklahoma"
+            },
+            "budget_constraints": "Budget Range: $22.0 - $1893.0",
+            "kpi": 13941200.0
+        },
+        {
+            "name": "Phoenix Suns vs. Golden State Warriors",
+            "url": "https://www.ticketmaster.com/phoenix-suns-vs-golden-state-warriors-phoenix-arizona-11-30-2024/event/19006108E35636EB",
+            "target_audience": "Fans of Basketball",
+            "objectives": "General Entertainment",
+            "industry_category": "Sports",
+            "geographic_focus": {
+                "city": "Phoenix",
+                "state": "Arizona"
+            },
+            "budget_constraints": "Budget Range: $134.0 - $7000.0",
+            "kpi": 52569019.2
+        },
+        {
+            "name": "Golden State Warriors vs. Phoenix Suns",
+            "url": "https://www.ticketmaster.com/golden-state-warriors-vs-phoenix-suns-san-francisco-california-12-28-2024/event/1C00610C86342240",
+            "target_audience": "Fans of Basketball",
+            "objectives": "General Entertainment",
+            "industry_category": "Sports",
+            "geographic_focus": {
+                "city": "San Francisco",
+                "state": "California"
+            },
+            "budget_constraints": "Budget Range: $135.0 - $2200.0",
+            "kpi": 16812000.0
+        },
+        {
+            "name": "San Antonio Spurs vs Phoenix Suns",
+            "url": "https://www.ticketmaster.com/san-antonio-spurs-vs-phoenix-suns-austin-texas-02-20-2025/event/3A006101A73B84D2",
+            "target_audience": "Fans of Basketball",
+            "objectives": "General Entertainment",
+            "industry_category": "Sports",
+            "geographic_focus": {
+                "city": "Austin",
+                "state": "Texas"
+            },
+            "budget_constraints": "Budget Range: $102.0 - $2371.0",
+            "kpi": 14838000.0
+        },
+        {
+            "name": "Phoenix Suns vs. Orlando Magic",
+            "url": "https://www.ticketmaster.com/phoenix-suns-vs-orlando-magic-phoenix-arizona-11-18-2024/event/19006108E34536DF",
+            "target_audience": "Fans of Basketball",
+            "objectives": "General Entertainment",
+            "industry_category": "Sports",
+            "geographic_focus": {
+                "city": "Phoenix",
+                "state": "Arizona"
+            },
+            "budget_constraints": "Budget Range: $23.0 - $3400.0",
+            "kpi": 25223402.4
+        },
+        {
+            "name": "Orlando Magic v Phoenix Suns",
+            "url": "https://www.ticketmaster.com/orlando-magic-v-phoenix-suns-orlando-florida-12-08-2024/event/2200610EE0461E00",
+            "target_audience": "Fans of Basketball",
+            "objectives": "General Entertainment",
+            "industry_category": "Sports",
+            "geographic_focus": {
+                "city": "Orlando",
+                "state": "Florida"
+            },
+            "budget_constraints": "Budget Range: $46.0 - $2307.5",
+            "kpi": 0.0
+        },
+        {
+            "name": "Phoenix Suns vs. Brooklyn Nets",
+            "url": "https://www.ticketmaster.com/phoenix-suns-vs-brooklyn-nets-phoenix-arizona-11-27-2024/event/19006108E35236E9",
+            "target_audience": "Fans of Basketball",
+            "objectives": "General Entertainment",
+            "industry_category": "Sports",
+            "geographic_focus": {
+                "city": "Phoenix",
+                "state": "Arizona"
+            },
+            "budget_constraints": "Budget Range: $33.0 - $3400.0",
+            "kpi": 24717600.0
+        },
+        {
+            "name": "Phoenix Suns vs. San Antonio (NBA Cup Group Play)",
+            "url": "https://www.ticketmaster.com/phoenix-suns-vs-san-antonio-nba-phoenix-arizona-12-03-2024/event/19006108E35A36EF",
+            "target_audience": "Fans of Basketball",
+            "objectives": "General Entertainment",
+            "industry_category": "Sports",
+            "geographic_focus": {
+                "city": "Phoenix",
+                "state": "Arizona"
+            },
+            "budget_constraints": "Budget Range: $49.0 - $3400.0",
+            "kpi": 25414991.2
+        },
+        {
+            "name": "Phoenix Suns vs. Memphis Grizzlies",
+            "url": "https://www.ticketmaster.com/phoenix-suns-vs-memphis-grizzlies-phoenix-arizona-12-31-2024/event/19006108E37B372D",
+            "target_audience": "Fans of Basketball",
+            "objectives": "General Entertainment",
+            "industry_category": "Sports",
+            "geographic_focus": {
+                "city": "Phoenix",
+                "state": "Arizona"
+            },
+            "budget_constraints": "Budget Range: $44.0 - $3400.0",
+            "kpi": 25378147.2
+        },
+        {
+            "name": "Miami Heat vs. Phoenix Suns",
+            "url": "https://www.ticketmaster.com/miami-heat-vs-phoenix-suns-miami-florida-12-07-2024/event/0D00610ED14241C4",
+            "target_audience": "Fans of Basketball",
+            "objectives": "General Entertainment",
+            "industry_category": "Sports",
+            "geographic_focus": {
+                "city": "Miami",
+                "state": "Florida"
+            },
+            "budget_constraints": "Budget Range: $40.0 - $850.0",
+            "kpi": 0.0
+        },
+        {
+            "name": "Indiana Pacers vs. Phoenix Suns",
+            "url": "https://www.ticketmaster.com/indiana-pacers-vs-phoenix-suns-indianapolis-indiana-01-04-2025/event/0500610EE0FC3B39",
+            "target_audience": "Fans of Basketball",
+            "objectives": "General Entertainment",
+            "industry_category": "Sports",
+            "geographic_focus": {
+                "city": "Indianapolis",
+                "state": "Indiana"
+            },
+            "budget_constraints": "Budget Range: $38.0 - $943.0",
+            "kpi": 7032985.2
+        },
+        {
+            "name": "Golden State Warriors vs. Phoenix Suns",
+            "url": "https://www.ticketmaster.com/golden-state-warriors-vs-phoenix-suns-san-francisco-california-01-31-2025/event/1C00610C85BF2174",
+            "target_audience": "Fans of Basketball",
+            "objectives": "General Entertainment",
+            "industry_category": "Sports",
+            "geographic_focus": {
+                "city": "San Francisco",
+                "state": "California"
+            },
+            "budget_constraints": "Budget Range: $135.0 - $2200.0",
+            "kpi": 16871776.0
+        },
+        {
+            "name": "Phoenix Suns vs. Utah Jazz",
+            "url": "https://www.ticketmaster.com/phoenix-suns-vs-utah-jazz-phoenix-arizona-01-11-2025/event/19006108E2C53636",
+            "target_audience": "Fans of Basketball",
+            "objectives": "General Entertainment",
+            "industry_category": "Sports",
+            "geographic_focus": {
+                "city": "Phoenix",
+                "state": "Arizona"
+            },
+            "budget_constraints": "Budget Range: $37.0 - $3400.0",
+            "kpi": 24822014.0
+        },
+        {
+            "name": "Phoenix Suns vs. Indiana Pacers",
+            "url": "https://www.ticketmaster.com/phoenix-suns-vs-indiana-pacers-phoenix-arizona-12-19-2024/event/19006108E36736FC",
+            "target_audience": "Fans of Basketball",
+            "objectives": "General Entertainment",
+            "industry_category": "Sports",
+            "geographic_focus": {
+                "city": "Phoenix",
+                "state": "Arizona"
+            },
+            "budget_constraints": "Budget Range: $37.0 - $3400.0",
+            "kpi": 24746400.0
+        },
+        {
+            "name": "Porland Trail Blazers v Phoenix Suns - Black History Night",
+            "url": "https://www.ticketmaster.com/porland-trail-blazers-v-phoenix-suns-portland-oregon-02-01-2025/event/0F0060EAC953499A",
+            "target_audience": "Fans of Basketball",
+            "objectives": "General Entertainment",
+            "industry_category": "Sports",
             "geographic_focus": {
                 "city": "Portland",
-                "state": "Maine"
+                "state": "Oregon"
             },
-            "budget_constraints": "Budget Range: $15.0 - $130.0",
-            "kpi": 464.0
+            "budget_constraints": "Budget Range: $25.0 - $4100.0",
+            "kpi": 31998450.0
         },
         {
-            "name": "Boston Bruins vs. Detroit Red Wings",
-            "url": "https://www.ticketmaster.com/boston-bruins-vs-detroit-red-wings-boston-massachusetts-12-03-2024/event/010060D9D57C75DD",
-            "target_audience": "Fans of Hockey",
-            "objectives": "Brand Awareness for NHL Fans",
+            "name": "Brooklyn Nets v. Phoenix Suns",
+            "url": "https://www.ticketmaster.com/brooklyn-nets-v-phoenix-suns-brooklyn-new-york-01-22-2025/event/3000610DA79E20C0",
+            "target_audience": "Fans of Basketball",
+            "objectives": "General Entertainment",
             "industry_category": "Sports",
             "geographic_focus": {
-                "city": "Boston",
-                "state": "Massachusetts"
+                "city": "Brooklyn",
+                "state": "New York"
             },
-            "budget_constraints": "Budget Range: $95.0 - $1565.5",
-            "kpi": 5313.6
+            "budget_constraints": "Budget Range: $48.0 - $5400.0",
+            "kpi": 41404800.0
         },
         {
-            "name": "Disney On Ice presents Into the Magic",
-            "url": "https://www.ticketmaster.com/disney-on-ice-presents-into-the-portland-maine-12-21-2024/event/010060DA8BE7345B",
-            "target_audience": "Fans of Ice Shows",
+            "name": "Charlotte Hornets vs. Phoenix Suns",
+            "url": "https://www.ticketmaster.com/charlotte-hornets-vs-phoenix-suns-charlotte-north-carolina-01-07-2025/event/2D0060EF063193C4",
+            "target_audience": "Fans of Basketball",
             "objectives": "General Entertainment",
-            "industry_category": "Miscellaneous",
-            "geographic_focus": {
-                "city": "Portland",
-                "state": "Maine"
-            },
-            "budget_constraints": "Budget Range: $15.0 - $130.0",
-            "kpi": 464.0
-        },
-        {
-            "name": "Boston Bruins vs. Columbus Blue Jackets",
-            "url": "https://www.ticketmaster.com/boston-bruins-vs-columbus-blue-jackets-boston-massachusetts-12-28-2024/event/010060D9D58F7631",
-            "target_audience": "Fans of Hockey",
-            "objectives": "Brand Awareness for NHL Fans",
             "industry_category": "Sports",
             "geographic_focus": {
-                "city": "Boston",
-                "state": "Massachusetts"
+                "city": "Charlotte",
+                "state": "North Carolina"
             },
-            "budget_constraints": "Budget Range: $190.0 - $1565.5",
-            "kpi": 5617.6
+            "budget_constraints": "Budget Range: $18.5 - $725.0",
+            "kpi": 6007480.0
         },
         {
-            "name": "Boston Bruins vs. Columbus Blue Jackets",
-            "url": "https://www.ticketmaster.com/boston-bruins-vs-columbus-blue-jackets-boston-massachusetts-11-18-2024/event/010060D9D5647538",
-            "target_audience": "Fans of Hockey",
-            "objectives": "Brand Awareness for NHL Fans",
+            "name": "Phoenix Suns vs. Minnesota Timberwolves",
+            "url": "https://www.ticketmaster.com/phoenix-suns-vs-minnesota-timberwolves-phoenix-arizona-01-29-2025/event/19006108E2D63654",
+            "target_audience": "Fans of Basketball",
+            "objectives": "General Entertainment",
             "industry_category": "Sports",
             "geographic_focus": {
-                "city": "Boston",
-                "state": "Massachusetts"
+                "city": "Phoenix",
+                "state": "Arizona"
             },
-            "budget_constraints": "Budget Range: $75.0 - $1565.5",
-            "kpi": 5249.6
+            "budget_constraints": "Budget Range: $37.0 - $3400.0",
+            "kpi": 25326565.6
         },
         {
-            "name": "Boston Bruins vs. Buffalo Sabres",
-            "url": "https://www.ticketmaster.com/boston-bruins-vs-buffalo-sabres-boston-massachusetts-12-21-2024/event/010060D9D5857613",
-            "target_audience": "Fans of Hockey",
-            "objectives": "Brand Awareness for NHL Fans",
+            "name": "Atlanta Hawks vs Phoenix Suns",
+            "url": "https://www.ticketmaster.com/atlanta-hawks-vs-phoenix-suns-atlanta-georgia-01-14-2025/event/0E006106E400513E",
+            "target_audience": "Fans of Basketball",
+            "objectives": "General Entertainment",
             "industry_category": "Sports",
             "geographic_focus": {
-                "city": "Boston",
-                "state": "Massachusetts"
+                "city": "Atlanta",
+                "state": "Georgia"
             },
-            "budget_constraints": "Budget Range: $145.0 - $1565.5",
-            "kpi": 5473.6
+            "budget_constraints": "Budget Range: $38.0 - $899.0",
+            "kpi": 7870800.0
         },
         {
-            "name": "Disney On Ice presents Into the Magic",
-            "url": "https://www.ticketmaster.com/disney-on-ice-presents-into-the-hartford-connecticut-01-04-2025/event/1D0060FDCD613C43",
-            "target_audience": "Fans of Ice Shows",
+            "name": "Phoenix Suns vs. Golden State Warriors",
+            "url": "https://www.ticketmaster.com/phoenix-suns-vs-golden-state-warriors-phoenix-arizona-04-08-2025/event/19006108E31736B4",
+            "target_audience": "Fans of Basketball",
             "objectives": "General Entertainment",
-            "industry_category": "Miscellaneous",
-            "geographic_focus": {
-                "city": "Hartford",
-                "state": "Connecticut"
-            },
-            "budget_constraints": "Budget Range: $20.0 - $115.0",
-            "kpi": 432.0
-        },
-        {
-            "name": "Disney On Ice presents Into the Magic",
-            "url": "https://www.ticketmaster.com/disney-on-ice-presents-into-the-hartford-connecticut-01-04-2025/event/1D0060FDCD5A3C38",
-            "target_audience": "Fans of Ice Shows",
-            "objectives": "General Entertainment",
-            "industry_category": "Miscellaneous",
-            "geographic_focus": {
-                "city": "Hartford",
-                "state": "Connecticut"
-            },
-            "budget_constraints": "Budget Range: $20.0 - $115.0",
-            "kpi": 432.0
-        },
-        {
-            "name": "Disney On Ice presents Into the Magic",
-            "url": "https://www.ticketmaster.com/disney-on-ice-presents-into-the-portland-maine-12-22-2024/event/010060DA8C6334F9",
-            "target_audience": "Fans of Ice Shows",
-            "objectives": "General Entertainment",
-            "industry_category": "Miscellaneous",
-            "geographic_focus": {
-                "city": "Portland",
-                "state": "Maine"
-            },
-            "budget_constraints": "Budget Range: $15.0 - $130.0",
-            "kpi": 464.0
-        },
-        {
-            "name": "Boston Bruins vs. Edmonton Oilers",
-            "url": "https://www.ticketmaster.com/boston-bruins-vs-edmonton-oilers-boston-massachusetts-01-07-2025/event/010060D9D4B87315",
-            "target_audience": "Fans of Hockey",
-            "objectives": "Brand Awareness for NHL Fans",
             "industry_category": "Sports",
             "geographic_focus": {
-                "city": "Boston",
-                "state": "Massachusetts"
+                "city": "Phoenix",
+                "state": "Arizona"
             },
-            "budget_constraints": "Budget Range: $125.0 - $1565.5",
-            "kpi": 5409.6
-        },
-        {
-            "name": "Disney On Ice presents Into the Magic",
-            "url": "https://www.ticketmaster.com/disney-on-ice-presents-into-the-portland-maine-12-22-2024/event/010060DA913D3E15",
-            "target_audience": "Fans of Ice Shows",
-            "objectives": "General Entertainment",
-            "industry_category": "Miscellaneous",
-            "geographic_focus": {
-                "city": "Portland",
-                "state": "Maine"
-            },
-            "budget_constraints": "Budget Range: $15.0 - $130.0",
-            "kpi": 464.0
-        },
-        {
-            "name": "Boston Bruins vs. Colorado Avalanche",
-            "url": "https://www.ticketmaster.com/boston-bruins-vs-colorado-avalanche-boston-massachusetts-01-25-2025/event/010060D9D4CC7326",
-            "target_audience": "Fans of Hockey",
-            "objectives": "Brand Awareness for NHL Fans",
-            "industry_category": "Sports",
-            "geographic_focus": {
-                "city": "Boston",
-                "state": "Massachusetts"
-            },
-            "budget_constraints": "Budget Range: $191.0 - $1565.5",
-            "kpi": 5620.8
-        },
-        {
-            "name": "Disney On Ice presents Into the Magic",
-            "url": "https://www.ticketmaster.com/disney-on-ice-presents-into-the-portland-maine-12-20-2024/event/010060D98C1019FA",
-            "target_audience": "Fans of Ice Shows",
-            "objectives": "General Entertainment",
-            "industry_category": "Miscellaneous",
-            "geographic_focus": {
-                "city": "Portland",
-                "state": "Maine"
-            },
-            "budget_constraints": "Budget Range: $15.0 - $90.0",
-            "kpi": 336.0
-        },
-        {
-            "name": "Disney On Ice presents Into the Magic",
-            "url": "https://www.ticketmaster.com/disney-on-ice-presents-into-the-portland-maine-12-19-2024/event/010060D98FEB1C98",
-            "target_audience": "Fans of Ice Shows",
-            "objectives": "General Entertainment",
-            "industry_category": "Miscellaneous",
-            "geographic_focus": {
-                "city": "Portland",
-                "state": "Maine"
-            },
-            "budget_constraints": "Budget Range: $15.0 - $90.0",
-            "kpi": 336.0
+            "budget_constraints": "Budget Range: $123.0 - $8000.0",
+            "kpi": 59856762.4
         }
     ]
 }
