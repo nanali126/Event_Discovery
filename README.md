@@ -1,12 +1,12 @@
-#Event Discovery Project
+# Event Discovery Project
 This project is designed to fetch event data from the Ticketmaster API, process the data to calculate Key Performance Indicators (KPIs) and event scores, and finally output the top 10 events into a CSV file for easy analysis.
 
-##Overview
+## Overview
 Due to limitations in the Ticketmaster API, reliable KPIs are not readily available. To address this, KPIs are calculated based on the venue capacity and ticket prices. The event score is then computed using the KPI, price difference, and relevance score, allowing for a ranked list of top events.
 
 
 
-##Usage
+## Usage
 1. Fetching Data
 Run the data_fetch.py script to fetch event data from the Ticketmaster API.
 
@@ -15,7 +15,7 @@ Run the event_discovery.py script to process the data and generate the top 10 ev
 
 
 
-##Event Score Calculation
+## Event Score Calculation
 The event score is calculated using the following formula:
 
 Event Score = (0.6 * KPI) + (0.3 * Price Difference) + (0.1 * Relevance Score)
@@ -36,13 +36,18 @@ Mean Ticket Price: Calculated as the average of the maximum and minimum ticket p
 
 
 
-##API Keys Management
-Current Approach: API keys for OpenAI and Ticketmaster are stored in the config.ini file.
+## API Keys Management
+Current Approach: Set the enviornment variable to store the api key
+
+for MAC/Linux:
+export TICKETMASTER_API_KEY='your_ticketmaster_api_key'
+export OPENAI_API_KEY='your_openai_api_key'
+
 Future Improvements: Plan to use more secure methods like environment variables or GitHub Secrets to store API keys, enhancing security and compliance.
 
 
 
-##Limitations and Future Work
+## Limitations and Future Work
 Data Size: Currently limited due to the Ticketmaster API rate limits, resulting in a smaller dataset.
 Future Solution: Implement methods to handle rate limiting or use batch processing to fetch more data over time.
 
@@ -55,6 +60,6 @@ Error Handling: The scripts have basic error handling.
 Future Enhancements: Improve error logging and handling to make the scripts more robust.
 
 
-Contact
+## Contact
 For any questions or suggestions, please contact kejiali@brandeis.edu.
 
