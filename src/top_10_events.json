@@ -25,7 +25,7 @@
         },
         "budget_constraints": "Budget Range: $134.0 - $7000.0",
         "kpi": 52569019.2,
-        "event_score": 31543471.37
+        "event_score": 31543471.32
     },
     {
         "name": "Brooklyn Nets v. Phoenix Suns",
@@ -39,7 +39,7 @@
         },
         "budget_constraints": "Budget Range: $48.0 - $5400.0",
         "kpi": 41404800.0,
-        "event_score": 24844485.650000002
+        "event_score": 24844485.6
     },
     {
         "name": "Porland Trail Blazers v Phoenix Suns - Black History Night",
@@ -53,7 +53,7 @@
         },
         "budget_constraints": "Budget Range: $25.0 - $4100.0",
         "kpi": 31998450.0,
-        "event_score": 19200292.55
+        "event_score": 19200292.5
     },
     {
         "name": "Phoenix Suns vs. San Antonio (NBA Cup Group Play)",
@@ -84,6 +84,20 @@
         "event_score": 15227895.17
     },
     {
+        "name": "Phoenix Suns vs. Indiana Pacers",
+        "url": "https://www.ticketmaster.com/phoenix-suns-vs-indiana-pacers-phoenix-arizona-12-19-2024/event/19006108E36736FC",
+        "target_audience": "Fans of Basketball",
+        "objectives": "General Entertainment",
+        "industry_category": "Sports",
+        "geographic_focus": {
+            "city": "Phoenix",
+            "state": "Arizona"
+        },
+        "budget_constraints": "Budget Range: $37.0 - $3400.0",
+        "kpi": 25326565.6,
+        "event_score": 15196948.31
+    },
+    {
         "name": "Phoenix Suns vs. Minnesota Timberwolves",
         "url": "https://www.ticketmaster.com/phoenix-suns-vs-minnesota-timberwolves-phoenix-arizona-01-29-2025/event/19006108E2D63654",
         "target_audience": "Fans of Basketball",
@@ -98,6 +112,20 @@
         "event_score": 15196948.31
     },
     {
+        "name": "Phoenix Suns vs. Brooklyn Nets",
+        "url": "https://www.ticketmaster.com/phoenix-suns-vs-brooklyn-nets-phoenix-arizona-11-27-2024/event/19006108E35236E9",
+        "target_audience": "Fans of Basketball",
+        "objectives": "General Entertainment",
+        "industry_category": "Sports",
+        "geographic_focus": {
+            "city": "Phoenix",
+            "state": "Arizona"
+        },
+        "budget_constraints": "Budget Range: $33.0 - $3400.0",
+        "kpi": 25297090.4,
+        "event_score": 15179264.339999998
+    },
+    {
         "name": "Phoenix Suns vs. Orlando Magic",
         "url": "https://www.ticketmaster.com/phoenix-suns-vs-orlando-magic-phoenix-arizona-11-18-2024/event/19006108E34536DF",
         "target_audience": "Fans of Basketball",
@@ -109,34 +137,6 @@
         },
         "budget_constraints": "Budget Range: $23.0 - $3400.0",
         "kpi": 25223402.4,
-        "event_score": 15135054.539999997
-    },
-    {
-        "name": "Phoenix Suns vs. Utah Jazz",
-        "url": "https://www.ticketmaster.com/phoenix-suns-vs-utah-jazz-phoenix-arizona-01-11-2025/event/19006108E2C53636",
-        "target_audience": "Fans of Basketball",
-        "objectives": "General Entertainment",
-        "industry_category": "Sports",
-        "geographic_focus": {
-            "city": "Phoenix",
-            "state": "Arizona"
-        },
-        "budget_constraints": "Budget Range: $37.0 - $3400.0",
-        "kpi": 24822014.0,
-        "event_score": 14894217.350000001
-    },
-    {
-        "name": "Phoenix Suns vs. Indiana Pacers",
-        "url": "https://www.ticketmaster.com/phoenix-suns-vs-indiana-pacers-phoenix-arizona-12-19-2024/event/19006108E36736FC",
-        "target_audience": "Fans of Basketball",
-        "objectives": "General Entertainment",
-        "industry_category": "Sports",
-        "geographic_focus": {
-            "city": "Phoenix",
-            "state": "Arizona"
-        },
-        "budget_constraints": "Budget Range: $37.0 - $3400.0",
-        "kpi": 24746400.0,
-        "event_score": 14848848.9
+        "event_score": 15135054.589999998
     }
 ]

@@ -2,13 +2,9 @@ import json
 import openai
 import re
 import csv
-import configparser
 import os
 
-config = configparser.ConfigParser()
-config.read('config.ini')
-
-openai.api_key = config.get('openai', 'api_key')
+openai.api_key = os.getenv("OPENAI_API_KEY")
 
 # Define weight factors for KPI, price difference, and relevance score
 w1 = 0.6  # Weight for KPI
